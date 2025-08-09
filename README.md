@@ -55,7 +55,7 @@ To get started with these applications, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/LangChain-Level-2-Application-Development.git
+    git clone https://github.com/ranak8811/LangChain-Level-2-Application-Development.git
     cd LangChain-Level-2-Application-Development
     ```
 
